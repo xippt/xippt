@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As a graduate student, I am currently focusing on research and practice in the fields of artificial intelligence and big data analysis. In my spare time, I actively participate in various technology projects, particularly those that combine cutting-edge algorithms with practical application scenarios. Through continuous learning and practice, I have become proficient in Python, Java,Cuda C++ and other mainstream programming languages. I also possess a deep understanding of data structures, algorithm optimization, and system design. Additionally, I regularly participate in open-source projects, collaborating with teams to drive technological innovation.
+
+If you'd like to learn more about my work, please visit my GitHub
